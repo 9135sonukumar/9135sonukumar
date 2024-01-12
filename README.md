@@ -47,7 +47,7 @@ I am a React native developer from India.
 
 <div align="left">  
   <a href='https://play.google.com/store/apps/details?id=com.onestack.bharatbank&hl=en-IN'>   
-    <img src="https://play-lh.googleusercontent.com/xOXv2qDkPkL8zLcW-7Pr8nN7q-WFoE8to9xQV63aY-M6JSLd4k77JutJ0_AZ8nLRDCo=w240-h480-rw" height="30"  />  
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/0a/56/2e0a56a9-ef92-796c-099b-30700965fb41/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/246x0w.webp" height="30"  />  
   </a>  
   <img width="12" /> 
   <a href='https://play.google.com/store/apps/details?id=com.onestack.mahabaleshwarucb&hl=en-IN'>   
