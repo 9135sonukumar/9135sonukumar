@@ -19,8 +19,6 @@ I am a React native developer from India.
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/450px-GitHub_Invertocat_Logo.svg.png" height="30"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
@@ -70,6 +68,14 @@ I am a React native developer from India.
     <img src="https://play-lh.googleusercontent.com/BtIlD7pRFPUt_Bg7715cdEt0Bg_Fb6orP6XMZsIEjOeDR68dz3EiiIGKhwJk9PeUL1w=w240-h480-rw" height="30"  />  
   </a>  
   <img width="12" />  
+  <a href='https://play.google.com/store/apps/details?id=com.gangotribusiness&hl=en-IN'>   
+    <img src="https://play-lh.googleusercontent.com/HAIhEG358zIp8BAzaU4pLR5t9DxqleKZjlKks4nv3c4XMZOS6hLhGSo0sEH0LN2USSU=w240-h480-rw" height="30"  />  
+  </a>  
+  <img width="12" />  
+  <a href='https://play.google.com/store/apps/details?id=com.fuji.cms&hl=en-IN'>   
+    <img src="https://play-lh.googleusercontent.com/S7apSkp_dmCFsyFD6HfxAszON3hgCxp7g97ymp4I6RW_LnSuM3hjC0kyvdLhWZiWtK0=w240-h480-rw" height="30"  />  
+  </a>  
+  <img width="12" />  
 </div>
 
 <h2 align="left">Live Application on App Store</h2>
@@ -77,6 +83,10 @@ I am a React native developer from India.
 <div align="left">  
   <a href='https://apps.apple.com/in/app/onestack-bharat-bank/id6469589695'>   
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/0a/56/2e0a56a9-ef92-796c-099b-30700965fb41/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/246x0w.webp" height="30"  />  
+  </a>  
+  <img width="12" />
+  <a href='https://apps.apple.com/in/app/gangotri-business/id6470782698'>   
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fa/91/74/fa9174b7-b225-4ffc-3852-2cacc909dcb5/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/246x0w.webp" height="30"  />  
   </a>  
   <img width="12" />
 </div>
