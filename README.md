@@ -1,6 +1,6 @@
 **Hello👋, I'm Sonu Kumar**
 
-I am a React native developer from India.
+I am a passionate and skilled React Native Developer with a proven track record of successfully delivering high-quality mobile applications.
 
 ## Currently I am working with...
 
