@@ -1,6 +1,6 @@
 **Hello👋, I'm Sonu Kumar**
 
-I am a passionate and skilled React Native Developer with a proven track record of successfully delivering high-quality mobile applications.
+I am a passionate and skilled Full Stack Mobile & Web Developer with a proven track record of successfully delivering high-quality, scalable, and user-friendly applications across both mobile and web platforms.
 
 ## Currently I am working with...
 
