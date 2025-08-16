@@ -41,6 +41,13 @@ I am a passionate and skilled Full Stack Mobile & Web Developer with a proven tr
   <img width="12" />
 </div>
 
+<h2 align="left">Live Web Application</h2>
+<div align="left">
+   <a href='http://localhost:5173/login'>   
+    DevTinder 
+  </a> 
+</div>
+
 <h2 align="left">Live Application on Play Store</h2>
 
 <div align="left">
