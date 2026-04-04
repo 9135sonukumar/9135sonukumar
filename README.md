@@ -51,6 +51,10 @@ I am a passionate and skilled Full Stack Mobile & Web Developer with a proven tr
 <h2 align="left">Live Application on Play Store</h2>
 
 <div align="left">
+  <a href='https://play.google.com/store/apps/details?id=com.edmeinsurance.eb&hl=en_IN'>   
+    <img src="https://play-lh.googleusercontent.com/h3SjkHq9qRyygJwETB35nFcRlX0vBJ47ucPIugxdmwQpEfcbjTZ8GTTtlL8IIcJt0g=s188-rw" height="30"  />  
+  </a>  
+  <img width="12" /> 
   <a href='https://play.google.com/store/apps/details?id=com.agrim.agrim'>   
     <img src="https://play-lh.googleusercontent.com/lLf0EHSRvXMWzrD5XY4poV2WMUQFDd4eefGYGDcfWpyaFMcLl33uA56nRqCfVoBY5A=s96-rw" height="30"  />  
   </a>  
@@ -100,6 +104,10 @@ I am a passionate and skilled Full Stack Mobile & Web Developer with a proven tr
 <h2 align="left">Live Application on App Store</h2>
 
 <div align="left">  
+  <a href='https://apps.apple.com/in/app/edme-care-2-0/id6759897270'>   
+    <img src="https://play-lh.googleusercontent.com/h3SjkHq9qRyygJwETB35nFcRlX0vBJ47ucPIugxdmwQpEfcbjTZ8GTTtlL8IIcJt0g=s188-rw" height="30"  />  
+  </a>  
+  <img width="12" />
   <a href='https://apps.apple.com/in/app/onestack-bharat-bank/id6469589695'>   
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/0a/56/2e0a56a9-ef92-796c-099b-30700965fb41/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/246x0w.webp" height="30"  />  
   </a>  
