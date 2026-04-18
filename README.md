@@ -43,7 +43,7 @@ I am a passionate and skilled Full Stack Mobile & Web Developer with a proven tr
 
 <h2 align="left">Live Web Application</h2>
 <div align="left">
-   <a href='http://localhost:5173/login'>   
+   <a href='http://13.48.248.127/login'>   
     DevTinder 
   </a> 
 </div>
