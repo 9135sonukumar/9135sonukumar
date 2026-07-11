@@ -81,14 +81,14 @@ I am a passionate and skilled Full Stack Mobile & Web Developer with a proven tr
     <img src="https://play-lh.googleusercontent.com/Lkp7v_MbJDMONqRrzf76euM8XVFbFlQy8Mgm3aXG2mvlGlQQje4KCtlC6N_wnHxnTVM=w240-h480-rw" height="30"  />  
   </a>  
   <img width="12" />  
-  <a href='https://play.google.com/store/apps/details?id=com.onestack.mahavirfinacus'>   
+  <!-- <a href='https://play.google.com/store/apps/details?id=com.onestack.mahavirfinacus'>   
     <img src="https://play-lh.googleusercontent.com/H-gWXVac-b62WJmmC7ZbWds5WctHUM0CICOOcrWfrSldkrNLbaXdBf03VZHx6XtpOVE=w240-h480-rw" height="30"  />  
   </a>  
   <img width="12" />  
   <a href='https://play.google.com/store/apps/details?id=com.onestack.rajmataucb'>   
     <img src="https://play-lh.googleusercontent.com/BtIlD7pRFPUt_Bg7715cdEt0Bg_Fb6orP6XMZsIEjOeDR68dz3EiiIGKhwJk9PeUL1w=w240-h480-rw" height="30"  />  
   </a>  
-  <img width="12" />  
+  <img width="12" />   -->
   <a href='https://play.google.com/store/apps/details?id=com.gangotribusiness&hl=en-IN'>   
     <img src="https://play-lh.googleusercontent.com/HAIhEG358zIp8BAzaU4pLR5t9DxqleKZjlKks4nv3c4XMZOS6hLhGSo0sEH0LN2USSU=w240-h480-rw" height="30"  />  
   </a>  
