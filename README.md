@@ -54,7 +54,7 @@ I am a passionate and skilled Full Stack Mobile & Web Developer with a proven tr
 
 <div align="left">
   <a href='https://play.google.com/store/apps/details?id=com.edmeinsurance.eb&hl=en_IN'>   
-    <img src="https://play-lh.googleusercontent.com/h3SjkHq9qRyygJwETB35nFcRlX0vBJ47ucPIugxdmwQpEfcbjTZ8GTTtlL8IIcJt0g=s188-rw" height="30"  />  
+    <img src="https://play-lh.googleusercontent.com/_7CE6tkTojTO4JbVvFmPPjlZOXrv7_l_25h_hqXazazS_FR2yvS-R8xqVaE49kaJ9IyTYwm3px5W-kiI8JR7vOI=w480-h960-rw" height="30"  />  
   </a>  
   <img width="12" />
   <a href='https://play.google.com/store/apps/details?id=com.agrim.agrim'>   
@@ -107,7 +107,7 @@ I am a passionate and skilled Full Stack Mobile & Web Developer with a proven tr
 
 <div align="left">  
   <a href='https://apps.apple.com/in/app/edme-care-2-0/id6759897270'>   
-    <img src="https://play-lh.googleusercontent.com/h3SjkHq9qRyygJwETB35nFcRlX0vBJ47ucPIugxdmwQpEfcbjTZ8GTTtlL8IIcJt0g=s188-rw" height="30"  />  
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/ea/d5/45ead5c0-04a9-b812-b3ba-059c613790cc/Placeholder.mill/400x400bb-75.webp" height="30"  />  
   </a>  
   <img width="12" />
   <a href='https://apps.apple.com/in/app/onestack-bharat-bank/id6469589695'>   
